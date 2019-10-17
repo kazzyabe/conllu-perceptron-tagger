@@ -9,7 +9,7 @@ This is wholely based on the following code:
 * https://github.com/sloria/textblob-aptagger
 
 I've basically taken the code and wrapped it for parsing CoNLL-U format files. 
-
+## Added i-3 feature, but no improvement
 # Usage
 
 Like UDpipe:
